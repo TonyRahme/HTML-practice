@@ -10,7 +10,7 @@ h1 {
 }
 
 .top-content {
-    background-color: #4B56D2;
+    background: linear-gradient(#4B56D2, #82C3EC);
 }
 
 .middle-content {
@@ -66,4 +66,8 @@ h1 {
 
 .bottom-cloud {
     position: absolute;
+}
+
+.mountain {
+    margin-bottom: -8px;
 }
