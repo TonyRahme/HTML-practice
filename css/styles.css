@@ -9,6 +9,15 @@ h1 {
     margin: 0 0;
 }
 
+a {
+    color: #0b8c91;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5b6161;
+}
+
 p {
     font-size: smaller;
 }
@@ -133,10 +142,6 @@ hr {
     column-gap: 100px;
 }
 
-.footer-link {
-    color: #0b8c91;
-    text-decoration: none;
-}
 .footer-link:hover {
     color: #eaf6f6;
 }
