@@ -15,18 +15,41 @@ h1 {
 
 .middle-content {
     font-family: verdana, sans-serif;
+    width: 50%;
+    margin: auto;
+}
+
+.skill-row {
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.skill-row img {
+    width: 20%;
+    float: left;
+    margin-right: 32px;
+}
+
+.skill-row-text {
+    text-align: left;
 }
 
 .big-name {
-    
+    font-size: 5.625em;
     color: #F1F6F5;
-    
+    margin: 50px auto 0 auto;
 }
 
 .small-name {
     font-family: 'Sacramento', cursive;
-    margin: 0;
+    margin: -24px 0;
     color: #82C3EC;
+}
+
+.title {
+    margin: 50px auto 0 auto;
+    font-family: sans-serif;
+    font-weight: normal;
 }
 
 .center-name {
