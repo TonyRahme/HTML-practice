@@ -1,3 +1,46 @@
+
 body {
-    background-color: blue;
+    margin: 0;
+    text-align: center;
+    font-family: papyrus, fantasy;
+}
+
+h1 {
+    margin: 0 0;
+}
+
+.top-content {
+    background-color: #4B56D2;
+}
+
+.middle-content {
+    font-family: verdana, sans-serif;
+}
+
+.big-name {
+    
+    color: #F1F6F5;
+    
+}
+
+.small-name {
+    font-family: 'Sacramento', cursive;
+    margin: 0;
+    color: #82C3EC;
+}
+
+.center-name {
+    display: grid;
+    justify-items: center;
+}
+
+.top-cloud {
+    position: relative;
+    left: 200px;
+    top: 50px;
+    padding-top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
 }
